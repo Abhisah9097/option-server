@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+.env
+# Dependency directories
+.idea/
+.vscode/
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor-specific files
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+.idea/
+*.sw?
+
+# Optional: Webpack build directory
+/dist/
